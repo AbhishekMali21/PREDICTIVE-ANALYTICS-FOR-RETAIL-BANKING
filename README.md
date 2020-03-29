@@ -1,5 +1,22 @@
 # PREDECTIVE-ANALYTICS-FOR-RETAIL-BANKING
 
+[![author](https://img.shields.io/badge/author-Abhishek-ff69b4.svg?style=flat-square)](https://www.linkedin.com/in/abhishekmali/)
+[![GitHub followers](https://img.shields.io/github/followers/AbhishekMali21?style=social)](https://github.com/AbhishekMali21?tab=followers)
+[![GitHub watchers](https://img.shields.io/github/watchers/AbhishekMali21/PREDICTIVE-ANALYTICS-FOR-RETAIL-BANKING?style=social)](https://github.com/AbhishekMali21/PREDICTIVE-ANALYTICS-FOR-RETAIL-BANKING/watchers)
+[![GitHub stars](https://img.shields.io/github/stars/AbhishekMali21/PREDICTIVE-ANALYTICS-FOR-RETAIL-BANKING?style=social)](https://github.com/AbhishekMali21/PREDICTIVE-ANALYTICS-FOR-RETAIL-BANKING/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/AbhishekMali21/PREDICTIVE-ANALYTICS-FOR-RETAIL-BANKING?style=social)](https://github.com/AbhishekMali21/PREDICTIVE-ANALYTICS-FOR-RETAIL-BANKING/network/members)
+
+![GitHub language count](https://img.shields.io/github/languages/count/AbhishekMali21/PREDICTIVE-ANALYTICS-FOR-RETAIL-BANKING?style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/AbhishekMali21/PREDICTIVE-ANALYTICS-FOR-RETAIL-BANKING?logoColor=9cf&style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/AbhishekMali21/PREDICTIVE-ANALYTICS-FOR-RETAIL-BANKING?logoColor=important&style=flat-square)
+
+[![GitHub issues](https://img.shields.io/github/issues/AbhishekMali21/PREDICTIVE-ANALYTICS-FOR-RETAIL-BANKING?style=flat-square)](https://github.com/AbhishekMali21/PREDICTIVE-ANALYTICS-FOR-RETAIL-BANKING/issues?q=is%3Aopen+is%3Aissue)
+[![GitHub closed issues](https://img.shields.io/github/issues-closed/AbhishekMali21/PREDICTIVE-ANALYTICS-FOR-RETAIL-BANKING?style=flat-square)](https://github.com/AbhishekMali21/PREDICTIVE-ANALYTICS-FOR-RETAIL-BANKING/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/AbhishekMali21/PREDICTIVE-ANALYTICS-FOR-RETAIL-BANKING?logoColor=yellow&style=flat-square)](https://github.com/AbhishekMali21/PREDICTIVE-ANALYTICS-FOR-RETAIL-BANKING/pulls?q=is%3Aopen+is%3Apr)
+[![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/AbhishekMali21/PREDICTIVE-ANALYTICS-FOR-RETAIL-BANKING?logoColor=yellow&style=flat-square)](https://github.com/AbhishekMali21/PREDICTIVE-ANALYTICS-FOR-RETAIL-BANKING/pulls?q=is%3Apr+is%3Aclosed)
+[![LICENSE](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](https://github.com/AbhishekMali21/PREDICTIVE-ANALYTICS-FOR-RETAIL-BANKING/blob/master/LICENSE)
+[![HitCount](http://hits.dwyl.com/AbhishekMali21/PREDICTIVE-ANALYTICS-FOR-RETAIL-BANKING.svg)](http://hits.dwyl.com/AbhishekMali21/PREDICTIVE-ANALYTICS-FOR-RETAIL-BANKING)
+
 ### Objectives of Research
 Analytics is helping the banking industry become smarter in managing the myriad challenges.
 Challenges:
